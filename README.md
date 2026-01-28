@@ -37,3 +37,6 @@ Business Insights & Storytelling
 This dashboard helps stakeholders monitor transaction performance, identify failure patterns, and make data-driven decisions to improve user experience and operational efficiency.
 
 💡 Always excited to build more data-driven solutions and enhance my analytics skills.
+
+<img width="1347" height="742" alt="Report" src="https://github.com/user-attachments/assets/e6aec998-b7ab-4df8-98be-bf89e870298d" />
+
